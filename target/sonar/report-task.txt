@@ -1,0 +1,6 @@
+projectKey=com.qa.SamsRecipes:Recipe1
+serverUrl=http://localhost:9000
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9000/dashboard?id=com.qa.SamsRecipes%3ARecipe1
+ceTaskId=AWoNCfWsg37lZQjM9Yh_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWoNCfWsg37lZQjM9Yh_
